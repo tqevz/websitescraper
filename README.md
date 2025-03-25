@@ -1,1 +1,1 @@
-# websitescraper
+# To use this website scraper you need to create a folder then at the search bar type "cmd" then press enter once you have done that press tab and it should show scrap.py then enter the website URL and it will dump the code
